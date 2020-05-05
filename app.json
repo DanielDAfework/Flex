@@ -1,0 +1,17 @@
+{
+  "name": "flex",
+  "displayName": "flex",
+  "expo": {
+    "name": "flex",
+    "slug": "flex",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
