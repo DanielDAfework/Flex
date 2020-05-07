@@ -13,7 +13,8 @@ var habitList = [
   {key: 'John'},
   {key: 'Jillian'},
   {key: 'Jimmy'},
-  {key: 'Julie'}
+  {key: 'Julie'},
+  {key: 'Kevin'}
 ];
 
 export default class HabitList extends Component {
